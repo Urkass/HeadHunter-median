@@ -14,6 +14,7 @@
 ```
 ### Запуск
 1) Консоль -> ```cd ./jarFile``` -> ```java -jar median.jar``` 
+
 2) (только для windows) в jarFile запустить medianBat.bat
 ### Комментарий
 
